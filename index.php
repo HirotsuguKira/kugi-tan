@@ -537,7 +537,7 @@ if (empty($files)){
 </div>
 
 <div id="footer">
-  <p><a id="hiddenlink" href="?admin" onmouseover="return true;">Powered</a> by <a href="http://labs.beffa.org/w2box/">Kira</a>, using valid <a href="http://validator.w3.org/check/referer">xhtml</a> &amp; <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>.</p>
+  <p><a id="hiddenlink" href="?admin" onmouseover="return true;">Powered</a> by <a href="http://labs.beffa.org/w2box/">Kira2</a>, using valid <a href="http://validator.w3.org/check/referer">xhtml</a> &amp; <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>.</p>
 </div>
 </div>
 </body>
