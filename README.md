@@ -1,2 +1,2 @@
-# kugi-tan
+# kugi-tan.
 Almacen
